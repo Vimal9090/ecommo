@@ -1,3 +1,0 @@
-backend run = npm install
-
-frontend run = npm i
